@@ -1,0 +1,50 @@
+{
+  "heroes": [
+    {
+      "id": "a0608ee6-c53b-4d5a-992f-b6fab2d64c75",
+      "name": "Локи",
+      "description": "Стрелять, бегать, прыгать",
+      "element": "fire"
+    },
+    {
+      "id": "51dfb72e-b905-401f-b095-e71c4f05c7a5",
+      "name": "Тор",
+      "description": "Молния, молот",
+      "element": "water"
+    },
+    {
+      "id": "4d5b45c7-ef09-4f36-8965-848fb9165231",
+      "name": "Генри",
+      "description": "Спит, ест ",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля"
+    }
+  ]
+}
